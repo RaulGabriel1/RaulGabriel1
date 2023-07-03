@@ -1,9 +1,9 @@
-### Hi there 👋
+### boas vindas ao meu perfil 🐤
 
-<!--
-**RaulGabriel1/RaulGabriel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Raul
 
-Here are some ideas to get you started:
+estou estudando na alura 
+Estou me desenvolvendo na linguagem javascript
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
